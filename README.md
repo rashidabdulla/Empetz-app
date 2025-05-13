@@ -46,9 +46,9 @@ flutter run
 * Dark Theme Support (new)
 
 ### Libraries & Tools Used
-  cupertino_icons
-  image_picker
-  shared_preferences
-  url_launcher
-  flutter_launcher_icons
-  change_app_package_name
+  * cupertino_icons
+  * image_picker
+  * shared_preferences
+  * url_launcher
+  * flutter_launcher_icons
+  * change_app_package_name
