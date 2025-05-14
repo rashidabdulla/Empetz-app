@@ -18,7 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-![Black and Beige Modern Textured Fitness App Instagram Story](https://github.com/user-attachments/assets/9696751c-9bef-47c9-833f-81e51de532c6)
+![Black and Beige Modern Textured Fitness App Instagram Story (1)](https://github.com/user-attachments/assets/4e107048-00c3-4233-b2f5-1e304944b14b)
+
 
 
 **Step 1:**
